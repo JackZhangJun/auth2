@@ -1,0 +1,9 @@
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+security:
+  oauth2:
+    client:
+      registered-redirect-uri: http://example.com
