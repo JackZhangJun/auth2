@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-auth2-authorization" />
         <module name="spring-auth2-demo" />
         <module name="spring-auth2-suto-simple" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="spring-auth2-authorization" target="11" />
       <module name="spring-auth2-demo" target="11" />
       <module name="spring-auth2-suto-simple" target="11" />
     </bytecodeTargetLevel>

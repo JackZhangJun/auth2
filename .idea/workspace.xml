@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1515e1e0-152c-4cf4-bde5-8d0052aefe3b" name="Default Changelist" comment="" />
+    <list default="true" id="1515e1e0-152c-4cf4-bde5-8d0052aefe3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/SpringAuth2AuthorizationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/Oauth2AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/controller/ResourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-auth2-authorization/src/test/java/com/zhangjun/SpringAuth2AuthorizationApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-auth2-suto-simple/target/" />
+    <ignored path="$PROJECT_DIR$/spring-auth2-authorization/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,88 +41,79 @@
     <session id="1189045399">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
-          <entry key="xml" value="6" />
-          <entry key="yml" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="10" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="10" />
+          <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
-          <entry key="XML" value="6" />
-          <entry key="YAML" value="1" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="10" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="10" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="87" />
-          <entry key="xml" value="40" />
-          <entry key="yml" value="39" />
+          <entry key="dummy" value="14" />
+          <entry key="java" value="550" />
+          <entry key="xml" value="46" />
+          <entry key="yml" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="87" />
-          <entry key="XML" value="40" />
-          <entry key="YAML" value="39" />
+          <entry key="JAVA" value="550" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="XML" value="46" />
+          <entry key="YAML" value="158" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/Oauth2AuthorizationServerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="325">
+              <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java">
+        <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -110,15 +127,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/spring-auth2-suto-simple/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java" />
         <option value="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java" />
         <option value="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java" />
         <option value="$PROJECT_DIR$/spring-auth2-suto-simple/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/SpringAuth2AuthorizationApplication.java" />
+        <option value="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/spring-auth2-authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/Oauth2AuthorizationServerConfig.java" />
+        <option value="$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -144,28 +169,18 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-auth2-suto-simple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-auth2-suto-simple" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="134" />
-    <option name="y" value="23" />
-    <option name="width" value="1152" />
-    <option name="height" value="758" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="291" />
+    <option name="y" value="65" />
+    <option name="width" value="1011" />
+    <option name="height" value="670" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -271,11 +286,15 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -286,69 +305,61 @@
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zhangjun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zhangjun" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangjun" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-auth2-authorization" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-auth2-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-auth2-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-auth2-suto-simple" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,14 +370,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1608973396610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609212385513" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -380,7 +396,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringAuth2AuthorizationApplication">
+    <configuration name="SpringAuth2AuthorizationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-auth2-authorization" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhangjun.SpringAuth2AuthorizationApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringAuth2SutoSimpleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-auth2-suto-simple" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhangjun.SpringAuth2SutoSimpleApplication" />
@@ -388,6 +412,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringAuth2AuthorizationApplication" />
+      <item itemvalue="Spring Boot.SpringAuth2SutoSimpleApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -400,12 +428,15 @@
       <option name="presentableId" value="Default" />
       <updated>1608968718364</updated>
       <workItem from="1608968722130" duration="91000" />
-      <workItem from="1608968859133" duration="3191000" />
+      <workItem from="1608968859133" duration="3564000" />
+      <workItem from="1609122711109" duration="2133000" />
+      <workItem from="1609209927939" duration="1830000" />
+      <workItem from="1609212436231" duration="943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3282000" />
+    <option name="totallyTimeSpent" value="8561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -417,21 +448,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="23" width="1152" height="758" extended-state="0" />
+    <frame x="291" y="65" width="1011" height="670" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25405404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2621259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5690691" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46193773" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,6 +471,8 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -451,6 +483,39 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.25765765" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2621259" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16966967" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882884" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25765765" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -466,24 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/security/Principal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -491,32 +538,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java">
+    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="122">
+          <caret line="25" column="105" selection-start-line="25" selection-start-column="105" selection-end-line="25" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/config/SecurityConfig.java">
+    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/controller/ResourceController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="158">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/java/com/zhangjun/SpringAuth2SutoSimpleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-auth2-suto-simple/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="167">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/SpringAuth2AuthorizationApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../10_Tools/maven-jar/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar!/lombok/RequiredArgsConstructor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-auth2-authorization/src/main/java/com/zhangjun/config/Oauth2AuthorizationServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

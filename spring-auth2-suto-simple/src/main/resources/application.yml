@@ -7,3 +7,15 @@ security:
   oauth2:
     client:
       registered-redirect-uri: http://example.com
+      client-id: oauth
+      client-secret: oauth
+      scope: all
+      access-token-validity-seconds: 6000
+      refresh-token-validity-seconds: 6000
+      grant-type: authorization_code,password
+      resource-ids: oauth2
+    resource:
+      id: oauth2
+    authorization:
+      check-token-access: isAuthenticated()
+
